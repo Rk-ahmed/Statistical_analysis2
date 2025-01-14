@@ -92,7 +92,7 @@ This project demonstrates a thorough exploration of the Boston Housing dataset, 
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Rk-ahmed/Statistical-analysis/blob/main/online_retail.ipynb>
+   git clone <https://github.com/Rk-ahmed/Statistical_analysis2/blob/main/Boston%20housing.ipynb>
    ```
 2. Open the Jupyter Notebook and run the cells in sequence.
 3. Ensure the following libraries are installed:

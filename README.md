@@ -33,11 +33,16 @@ seaborn
 scipy
 statsmodels
 ```
-
-## Usage
-1. Clone the repository.
-2. Ensure all dependencies are installed.
-3. Run the Jupyter notebook or Python script to reproduce the analysis.
+## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/Rk-ahmed/Statistical-analysis/blob/main/online_retail.ipynb>
+   ```
+2. Open the Jupyter Notebook and run the cells in sequence.
+3. Ensure the following libraries are installed:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+   ```
 
 ## Results
 Key insights from the analysis include:
